@@ -24,6 +24,7 @@ HTML5
 CSS3
 
 📂 Project Structure
+
 📁 Gym-Website
  ┣ 📁 image
  ┃ ┣ 🖼️ Gym bg.jpg
